@@ -5,6 +5,11 @@
 I am a dedicated **GitHub Service Expert** working with the **GMBSells** team. I help developers, companies, and open-source projects boost their credibility and visibility through professional GitHub profile and repository management.
 
 ---
+<p align="center">
+  <img src="https://camo.githubusercontent.com/154e74646ac17b0286e754c538b39be2dfc5f5bf06dcd97aac1e143c64b5f8dc/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667" alt="Snake Animation" />
+</p>
+
+---
 
 ## 🛠️ My Specialized GitHub Services
 As a key member of **GMBSells**, I personally handle the following GitHub-related assets and services:
@@ -35,7 +40,7 @@ Ready to level up your GitHub profile? Let's discuss bulk orders or custom setup
 
 - **Official Platform:** [gmbsells.com](https://gmbsells.com)
 - **Founder:** Mike
-- **Telegram/WhatsApp:** [@GMBSells](https://t.me/GMBSells)
+- **Telegram:** [@GMBSells24](https://t.me/GMBSells24)
 - **Support Email:** gmbsells.info@gmail.com
 
 ---
