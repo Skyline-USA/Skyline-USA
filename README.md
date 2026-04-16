@@ -1,42 +1,50 @@
-# 👋 Hello, I'm Filippa Brandt
+# 👋 Hello, I'm SABBIR 
 
-### 🚀 Specialized in GitHub Services | Partner at GMBSells
+### 🚀 GitHub Specialist | Managing Digital Services at GMBSells
 
-I am a passionate Developer and Digital Assets specialist working with **GMBSells**. My primary focus is providing high-quality GitHub-related services and solutions to help developers and businesses build a strong digital presence.
-
----
-
-## 💼 What I Do for GMBSells
-As part of the **GMBSells** team, I manage and deliver premium digital products, specifically focusing on the **GitHub Services** category.
-
-### 🐙 My Core GitHub Services:
-- **Aged GitHub Accounts:** Providing stable and historical accounts for development and credibility.
-- **Profile Authority:** Boosting developer profiles with followers and organic-style activity.
-- **Repository Growth:** Helping open-source projects gain visibility through stars and forks.
-- **Automation & Setup:** Professional repository structure and README optimization.
+I am a dedicated **GitHub Service Expert** working with the **GMBSells** team. I help developers, companies, and open-source projects boost their credibility and visibility through professional GitHub profile and repository management.
 
 ---
 
-## 🛠️ Skills & Tools
-- **Languages:** HTML, CSS, JavaScript, Python
-- **Specialization:** GitHub API, Version Control, SEO, and Digital Marketing
-- **Platform:** [gmbsells.com](https://gmbsells.com)
+## 🛠️ My Specialized GitHub Services
+As a key member of **GMBSells**, I personally handle the following GitHub-related assets and services:
+
+- **⭐ Repository Growth:** Providing high-quality Stars, Forks, and Watchers to boost project rankings.
+- **👥 Profile Social Proof:** Increasing Followers to build developer authority.
+- **📊 Activity Management:** Daily contributions and automated "Green Dot" push on the contribution graph.
+- **📦 Account Sales:** Providing both **Aged (Old)** and **Fresh (New)** high-quality GitHub accounts.
+- **✨ Profile Optimization:** Designing professional READMEs and repo structures.
 
 ---
 
-## 🤝 Connect With Me
-If you are looking for professional GitHub services or want to discuss a collaboration through **GMBSells**, feel free to reach out:
+## 💼 Why Choose My Services via GMBSells?
+* **Account Safety:** All accounts and activities are managed following GitHub's safety guidelines.
+* **Instant Credibility:** Get the social proof you need to attract clients and employers.
+* **Verified Assets:** We provide stable, verified digital assets for long-term use.
+* **Team Support:** Backed by the official **GMBSells.com** infrastructure.
 
-- **Official Website:** [gmbsells.com](https://gmbsells.com)
+---
+
+## 🎯 Our Mission
+> "Bridging the gap between code and credibility. We make your GitHub profile look as strong as your skills."
+
+---
+
+## 🤝 Contact Me for Business
+Ready to level up your GitHub profile? Let's discuss bulk orders or custom setups:
+
+- **Official Platform:** [gmbsells.com](https://gmbsells.com)
+- **Founder:** Mike
 - **Telegram/WhatsApp:** [@GMBSells](https://t.me/GMBSells)
-- **Email:** gmbsells.info@gmail.com
+- **My Email:** sabbir26.sp@gmail.com
+- **Support Email:** gmbsells.info@gmail.com
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Partner_at_GMBSells-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-GitHub_Services-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Service-GitHub_Expert-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Affiliation-GMBSells_Team-brightgreen?style=for-the-badge" />
 </p>
 
 ---
-*Helping you build a better GitHub footprint, one repository at a time.*
+*© 2024-2026 GMBSells | Trusted by the Global Developer Community.*
