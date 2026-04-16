@@ -36,7 +36,6 @@ Ready to level up your GitHub profile? Let's discuss bulk orders or custom setup
 - **Official Platform:** [gmbsells.com](https://gmbsells.com)
 - **Founder:** Mike
 - **Telegram/WhatsApp:** [@GMBSells](https://t.me/GMBSells)
-- **My Email:** sabbir26.sp@gmail.com
 - **Support Email:** gmbsells.info@gmail.com
 
 ---
